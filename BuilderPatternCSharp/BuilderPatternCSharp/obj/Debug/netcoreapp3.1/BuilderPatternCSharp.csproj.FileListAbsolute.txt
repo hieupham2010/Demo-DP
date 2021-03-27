@@ -1,0 +1,13 @@
+D:\Assignments\HK2_3\Design Pattern\Demo\BuilderPatternCSharp\BuilderPatternCSharp\bin\Debug\netcoreapp3.1\BuilderPatternCSharp.exe
+D:\Assignments\HK2_3\Design Pattern\Demo\BuilderPatternCSharp\BuilderPatternCSharp\bin\Debug\netcoreapp3.1\BuilderPatternCSharp.deps.json
+D:\Assignments\HK2_3\Design Pattern\Demo\BuilderPatternCSharp\BuilderPatternCSharp\bin\Debug\netcoreapp3.1\BuilderPatternCSharp.runtimeconfig.json
+D:\Assignments\HK2_3\Design Pattern\Demo\BuilderPatternCSharp\BuilderPatternCSharp\bin\Debug\netcoreapp3.1\BuilderPatternCSharp.runtimeconfig.dev.json
+D:\Assignments\HK2_3\Design Pattern\Demo\BuilderPatternCSharp\BuilderPatternCSharp\bin\Debug\netcoreapp3.1\BuilderPatternCSharp.dll
+D:\Assignments\HK2_3\Design Pattern\Demo\BuilderPatternCSharp\BuilderPatternCSharp\bin\Debug\netcoreapp3.1\BuilderPatternCSharp.pdb
+D:\Assignments\HK2_3\Design Pattern\Demo\BuilderPatternCSharp\BuilderPatternCSharp\obj\Debug\netcoreapp3.1\BuilderPatternCSharp.csprojAssemblyReference.cache
+D:\Assignments\HK2_3\Design Pattern\Demo\BuilderPatternCSharp\BuilderPatternCSharp\obj\Debug\netcoreapp3.1\BuilderPatternCSharp.csproj.CoreCompileInputs.cache
+D:\Assignments\HK2_3\Design Pattern\Demo\BuilderPatternCSharp\BuilderPatternCSharp\obj\Debug\netcoreapp3.1\BuilderPatternCSharp.AssemblyInfoInputs.cache
+D:\Assignments\HK2_3\Design Pattern\Demo\BuilderPatternCSharp\BuilderPatternCSharp\obj\Debug\netcoreapp3.1\BuilderPatternCSharp.AssemblyInfo.cs
+D:\Assignments\HK2_3\Design Pattern\Demo\BuilderPatternCSharp\BuilderPatternCSharp\obj\Debug\netcoreapp3.1\BuilderPatternCSharp.dll
+D:\Assignments\HK2_3\Design Pattern\Demo\BuilderPatternCSharp\BuilderPatternCSharp\obj\Debug\netcoreapp3.1\BuilderPatternCSharp.pdb
+D:\Assignments\HK2_3\Design Pattern\Demo\BuilderPatternCSharp\BuilderPatternCSharp\obj\Debug\netcoreapp3.1\BuilderPatternCSharp.genruntimeconfig.cache

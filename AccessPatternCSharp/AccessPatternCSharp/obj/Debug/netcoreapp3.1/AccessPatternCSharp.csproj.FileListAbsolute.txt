@@ -1,0 +1,13 @@
+D:\Assignments\HK2_3\Design Pattern\Demo\AccessPatternCSharp\AccessPatternCSharp\bin\Debug\netcoreapp3.1\AccessPatternCSharp.exe
+D:\Assignments\HK2_3\Design Pattern\Demo\AccessPatternCSharp\AccessPatternCSharp\bin\Debug\netcoreapp3.1\AccessPatternCSharp.deps.json
+D:\Assignments\HK2_3\Design Pattern\Demo\AccessPatternCSharp\AccessPatternCSharp\bin\Debug\netcoreapp3.1\AccessPatternCSharp.runtimeconfig.json
+D:\Assignments\HK2_3\Design Pattern\Demo\AccessPatternCSharp\AccessPatternCSharp\bin\Debug\netcoreapp3.1\AccessPatternCSharp.runtimeconfig.dev.json
+D:\Assignments\HK2_3\Design Pattern\Demo\AccessPatternCSharp\AccessPatternCSharp\bin\Debug\netcoreapp3.1\AccessPatternCSharp.dll
+D:\Assignments\HK2_3\Design Pattern\Demo\AccessPatternCSharp\AccessPatternCSharp\bin\Debug\netcoreapp3.1\AccessPatternCSharp.pdb
+D:\Assignments\HK2_3\Design Pattern\Demo\AccessPatternCSharp\AccessPatternCSharp\obj\Debug\netcoreapp3.1\AccessPatternCSharp.csprojAssemblyReference.cache
+D:\Assignments\HK2_3\Design Pattern\Demo\AccessPatternCSharp\AccessPatternCSharp\obj\Debug\netcoreapp3.1\AccessPatternCSharp.csproj.CoreCompileInputs.cache
+D:\Assignments\HK2_3\Design Pattern\Demo\AccessPatternCSharp\AccessPatternCSharp\obj\Debug\netcoreapp3.1\AccessPatternCSharp.AssemblyInfoInputs.cache
+D:\Assignments\HK2_3\Design Pattern\Demo\AccessPatternCSharp\AccessPatternCSharp\obj\Debug\netcoreapp3.1\AccessPatternCSharp.AssemblyInfo.cs
+D:\Assignments\HK2_3\Design Pattern\Demo\AccessPatternCSharp\AccessPatternCSharp\obj\Debug\netcoreapp3.1\AccessPatternCSharp.dll
+D:\Assignments\HK2_3\Design Pattern\Demo\AccessPatternCSharp\AccessPatternCSharp\obj\Debug\netcoreapp3.1\AccessPatternCSharp.pdb
+D:\Assignments\HK2_3\Design Pattern\Demo\AccessPatternCSharp\AccessPatternCSharp\obj\Debug\netcoreapp3.1\AccessPatternCSharp.genruntimeconfig.cache

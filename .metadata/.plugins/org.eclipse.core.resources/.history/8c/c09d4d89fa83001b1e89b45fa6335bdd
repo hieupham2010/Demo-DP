@@ -1,0 +1,37 @@
+package demo;
+
+import java.util.List;
+
+public class StudentDao implements Dao<Student> {
+	
+	private List<Student> students;
+	
+	public StudentDao(List<Student> students) {
+		this.students = students;
+	}
+	
+	@Override
+	public List<Student> getAll() {
+		
+		return null;
+	}
+
+	@Override
+	public Student getById(int id) {
+		
+		return null;
+	}
+
+	@Override
+	public void update(Student t) {
+		
+		
+	}
+
+	@Override
+	public void delete(Student t) {
+		
+		
+	}
+	 
+}

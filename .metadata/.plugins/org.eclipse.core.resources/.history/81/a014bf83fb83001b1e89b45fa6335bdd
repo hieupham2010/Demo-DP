@@ -1,0 +1,10 @@
+package demo;
+
+public class Main {
+	public static void main(String[] args) {
+		StudentDao studentDao = new StudentDao();
+		studentDao.create(new Student(1 , "Student 1" , 20));
+		studentDao.create(new Student(2 , "Student 2" , 20));
+		studentDao.create(new Student(3 , "Student 3" , 20));
+	}
+}

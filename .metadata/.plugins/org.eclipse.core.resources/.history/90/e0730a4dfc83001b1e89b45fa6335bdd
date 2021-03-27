@@ -1,0 +1,17 @@
+package demo;
+
+public class Main {
+	public static void main(String[] args) {
+		StudentDao studentDao = new StudentDao();
+		studentDao.create(new Student(1 , "Student A" , 20));
+		studentDao.create(new Student(2 , "Student B" , 20));
+		studentDao.create(new Student(3 , "Student C" , 20));
+		
+		
+		for (Student student : studentDao.getAll()) {
+			System.out.println(student.toString());
+		}
+		
+		
+	}
+}
